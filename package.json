@@ -1,0 +1,24 @@
+{
+  "name": "@yadiganteng32/sequelize-utils",
+  "version": "1.0.0",
+  "description": "This is my package for utilities sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadBro/sequelize-utils.git"
+  },
+  "keywords": [
+    "sequelize",
+    "sequelize-utils",
+    "express"
+  ],
+  "author": "Yadi Apriyadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YadBro/sequelize-utils/issues"
+  },
+  "homepage": "https://github.com/YadBro/sequelize-utils#readme"
+}
